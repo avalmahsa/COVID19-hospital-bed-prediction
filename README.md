@@ -1,4 +1,4 @@
-# COVID19-hospital-bed-prediction:
+# COVID19 hospital bed availability prediction for various countries:
 - preprocessing and data exploration
 - parameter search
 - pipelining
