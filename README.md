@@ -11,3 +11,5 @@ The goal was to create a predictive model that could estimate the number of beds
 p between hospital bed capacity and virus fatality rate will help with healthcare preparation and response in the case of future outbreaks and new pandemics.
 - full_dumentation slide show provides more detail on EDA and results
 
+**Paste code link here if .ipynb files won't open (or take too long to open): https://nbviewer.jupyter.org/**
+
